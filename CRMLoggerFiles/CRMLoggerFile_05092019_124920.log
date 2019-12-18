@@ -1,0 +1,48 @@
+2019-09-05 00:49:32,191  INFO [main] WebEventListener:30 - Application Launched Successfully
+2019-09-05 00:49:32,938  INFO [main] LoginPage:131 - Browser Terminated
+2019-09-05 00:49:32,939  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-09-05 00:49:42,955  INFO [main] WebEventListener:30 - Application Launched Successfully
+2019-09-05 00:49:43,620  INFO [main] LoginPage:131 - Browser Terminated
+2019-09-05 00:49:43,621  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-09-05 00:49:52,967  INFO [main] WebEventListener:30 - Application Launched Successfully
+2019-09-05 00:49:53,998  INFO [main] LoginPage:131 - Browser Terminated
+2019-09-05 00:49:53,999  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-09-05 00:50:05,182  INFO [main] WebEventListener:30 - Application Launched Successfully
+2019-09-05 00:50:05,254  INFO [main] LoginPage:50 - CRM Logo Verified
+2019-09-05 00:50:05,889  INFO [main] LoginPage:131 - Browser Terminated
+2019-09-05 00:50:05,890  INFO [main] LoginPage:132 - -----------------------------------------------
+2019-09-05 00:50:16,158  INFO [main] WebEventListener:30 - Application Launched Successfully
+2019-09-05 00:50:20,877  INFO [main] HomePage:58 - Successfully Logged into CRM Application
+2019-09-05 00:50:21,505  INFO [main] HomePage:131 - Browser Terminated
+2019-09-05 00:50:21,509  INFO [main] HomePage:132 - -----------------------------------------------
+2019-09-05 00:50:31,133  INFO [main] WebEventListener:35 - Application Launched Successfully
+2019-09-05 00:50:36,517  INFO [main] HomePage:131 - Browser Terminated
+2019-09-05 00:50:36,518  INFO [main] HomePage:132 - -----------------------------------------------
+2019-09-05 00:50:46,283  INFO [main] WebEventListener:35 - Application Launched Successfully
+2019-09-05 00:50:52,720  INFO [main] HomePage:131 - Browser Terminated
+2019-09-05 00:50:52,721  INFO [main] HomePage:132 - -----------------------------------------------
+2019-09-05 00:51:02,720  INFO [main] WebEventListener:35 - Application Launched Successfully
+2019-09-05 00:51:08,314  INFO [main] HomePage:131 - Browser Terminated
+2019-09-05 00:51:08,315  INFO [main] HomePage:132 - -----------------------------------------------
+2019-09-05 00:51:18,614  INFO [main] WebEventListener:35 - Application Launched Successfully
+2019-09-05 00:51:25,737  INFO [main] HomePage:63 - UserName Verified
+2019-09-05 00:51:26,343  INFO [main] HomePage:131 - Browser Terminated
+2019-09-05 00:51:26,344  INFO [main] HomePage:132 - -----------------------------------------------
+2019-09-05 00:51:42,169  INFO [main] WebEventListener:35 - Application Launched Successfully
+2019-09-05 00:51:50,382  INFO [main] ContactsPage:72 - Switched into Frame and Clicked on Contacts Link
+2019-09-05 00:51:50,991  INFO [main] ContactsPage:131 - Browser Terminated
+2019-09-05 00:51:50,992  INFO [main] ContactsPage:132 - -----------------------------------------------
+2019-09-05 00:52:00,800  INFO [main] WebEventListener:35 - Application Launched Successfully
+2019-09-05 00:52:08,304  INFO [main] DealsPage:81 - Switched into Frame and Clicked on Deals Link
+2019-09-05 00:52:08,904  INFO [main] DealsPage:131 - Browser Terminated
+2019-09-05 00:52:08,905  INFO [main] DealsPage:132 - -----------------------------------------------
+2019-09-05 00:52:08,953 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-09-05 00:52:08,955 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-09-05 00:52:08,956 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-05 00:52:08,957 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-05 00:52:08,958 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-05 00:52:09,303 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_IN", UTF-8, parsed); will try to load it.
+2019-09-05 00:52:09,304 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_IN.ftl"): Not found
+2019-09-05 00:52:09,304 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-05 00:52:09,305 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-05 00:52:09,305 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Admin/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
